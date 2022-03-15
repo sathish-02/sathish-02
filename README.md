@@ -25,7 +25,7 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sathish-02&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="10%"height="10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
