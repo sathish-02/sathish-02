@@ -1,5 +1,7 @@
-<img margin-left=50% alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
+<p align="center" >
+  <img src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" alt="img" src="" width="50%" height="auto"/>
+</p>
 
 ### Hi there 👋 
 ### This is Sathish!
