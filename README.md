@@ -25,17 +25,17 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sathish-02&show_icons=true&hide_border=true" />
 
-<code><img width="10%"height="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/index.html"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/index.html"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/index.html"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/index.html"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/index.html"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/index.html"></code>
+<code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/index.html"></code>
 </p>
 
 
