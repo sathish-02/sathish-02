@@ -24,14 +24,13 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sathish-02&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/index.html"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/index.html"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/index.html"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/index.html"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/index.html"></code>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/index.html"></code>
 <code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg"></code>
