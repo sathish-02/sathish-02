@@ -21,9 +21,9 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sathish-02&show_icons=true&hide_border=true" />
+
+## Tools:
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -31,10 +31,5 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/index.html"></code>
-<code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/redux.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/index.html"></code>
-</p>
 
 
