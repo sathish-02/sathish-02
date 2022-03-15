@@ -1,82 +1,41 @@
-### Hi there 👋
+### Hi there 👋 
+### This is Fernando Roldán!
 
-<!--
-**sathish-02/sathish-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-<!--
-**ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Engineering Master Degree  
+- Taking online courses about Data Science and Machine Learning 
+- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
 
-<a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/zamranxd/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
 
-Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**About Me!**
-
-- 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
-
-
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
-
-⭐️ From [ZamranxD](https://github.com/ZamranxD)
--->
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
