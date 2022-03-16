@@ -5,26 +5,32 @@
 
 <hr />
 
-### Hi there 👋 
-### This is Sathish!
-
-![](https://komarev.com/ghpvc/?username=your-github-sathish-02&style=flat-square&label=Profile+Views)
-<img src="https://badges.pufler.dev/Commits/yearly/sathish-02" />
+<h1 align="center">Hi , I'm Sathish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-Welcome to my Github page! A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+<br>
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=sathish-02&label=Profile%20views&color=0e75b6&style=plastic" alt="sathish-02" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sathish-02" target="_blank"/> 
+	</a>
+</p>
 
+
+## :sassy_man:  About me
+ A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
+- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1QMQbVSWh-D43ZTutmjIn6r36odo_CjOE/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sathish-02&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
+<br>
 
 
 ### Languages and Tools
@@ -70,7 +76,7 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish-02&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sathish-02" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
   </p>
 
 ----
