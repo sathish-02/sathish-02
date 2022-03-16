@@ -8,9 +8,9 @@
 ### Hi there 👋 
 ### This is Sathish!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-b-7156ab225/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sathishb163@gmail.com)
+![](https://komarev.com/ghpvc/?username=your-github-sathish-02&style=flat-square&label=Profile+Views)
+<img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
+
 
 Welcome to my Github page! A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast. 
 
@@ -45,3 +45,11 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
 ### Live Projects
+
+
+
+### Contact ME
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-b-7156ab225/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sathishb163@gmail.com)
