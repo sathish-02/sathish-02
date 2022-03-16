@@ -30,24 +30,18 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 
 
 
-## Languages
+## Languages and Tools
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-
-## Tools:
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![Npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![Postman](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
 ## Live Projects
