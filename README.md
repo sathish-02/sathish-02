@@ -46,6 +46,11 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 
 ### Live Projects
 
+<p>
+<a href="https://github.com/sathish-02/Nike_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike"/></a>
+
+<a href="https://github.com/sathish-02/Epic_Games_Backend" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas"/></a>
+</p>
 
 
 ### Contact ME
