@@ -9,7 +9,7 @@
 ### This is Sathish!
 
 ![](https://komarev.com/ghpvc/?username=your-github-sathish-02&style=flat-square&label=Profile+Views)
-<img src="https://badges.pufler.dev/Commits/yearly/taherahmed14" />
+<img src="https://badges.pufler.dev/Commits/yearly/sathish-02" />
 
 
 Welcome to my Github page! A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast. 
