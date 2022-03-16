@@ -12,10 +12,7 @@
 <img src="https://badges.pufler.dev/Commits/yearly/sathish-02" />
 
 
-Welcome to my Github page! A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast. 
-
-
-
+Welcome to my Github page! A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
@@ -61,9 +58,33 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 
 
 
-### My Github stats
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathish-02&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathish-02&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathish-02&theme=dracula">
-</p>
+### 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/sathish-02/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sathish-02&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish-02&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sathish-02" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/sathish-02"><img alt="sathish-02's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sathish-02&custom_title=sathish-02's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathish-02&layout=compact&theme=algolia" alt="sathish-02" /></a> </p>
+
+
