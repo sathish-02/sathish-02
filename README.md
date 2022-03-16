@@ -33,7 +33,7 @@
 <br>
 
 
-### Languages and Tools
+## 👉 Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
@@ -47,7 +47,7 @@
 ![Postman](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
-### Live Projects
+## Live Projects
 
 <p>
 <a href="https://nike-five.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike"/></a>
@@ -56,7 +56,7 @@
 </p>
 
 
-### Contact ME
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-b-7156ab225/)
@@ -64,7 +64,7 @@
 
 
 
-### 📊 Github Stats
+## 📊 Github Stats
 
 
 
