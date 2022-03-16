@@ -47,7 +47,7 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 ### Live Projects
 
 <p>
-<a href="https://github.com/sathish-02/Nike_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike"/></a>
+<a href="https://nike-five.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike"/></a>
 
 <a href="https://github.com/sathish-02/Epic_Games_Backend" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
@@ -58,3 +58,12 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-b-7156ab225/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sathishb163@gmail.com)
+
+
+
+### My Github stats
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherahmed14&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=taherahmed14&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taherahmed14&theme=dracula">
+</p>
