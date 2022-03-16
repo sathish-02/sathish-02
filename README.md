@@ -30,7 +30,7 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 
 
 
-## Languages and Tools
+### Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
@@ -44,4 +44,4 @@ Welcome to my Github page! A Full Stack Web Developer based in India. A creative
 ![Postman](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
-## Live Projects
+### Live Projects
