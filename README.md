@@ -20,8 +20,8 @@
 
 
 ## :sassy_man:  About me
- A Full Stack Web Developer based in India. A creative coder who specializes in MERN stack. I make it my mission to design pixel-perfect websites and applications with optimized code that run blazing fast.
-- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1QMQbVSWh-D43ZTutmjIn6r36odo_CjOE/view?usp=sharing).
+Experienced React.js Developer with a solid foundation in the MERN stack. Completed a comprehensive MERN stack course and accumulated 2 years of professional experience in React.js development. Passionate about creating efficient, scalable, and responsive web applications. Continuously learning and exploring new technologies to enhance development practices and contribute effectively to projects.
+- :thinking: I’m currently open for: `A new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12JXWVqNOg5d-tTH0jeJawpNySnc8PSw8/view?usp=drive_link).
 - :nerd_face: Always `learning new things`
 
 <br>
