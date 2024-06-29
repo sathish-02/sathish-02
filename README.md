@@ -41,20 +41,8 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
  </p>
 
 
-## Live Projects
-
-<span  style="display: flex; gap:20px;">
-<a href="https://nike-five.vercel.app/" target="_blank">
-	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike" width="120" height="35"/>
-</a>
-
-<a href="https://github.com/sathish-02/Epic_Games_Backend" target="_blank">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas" width="120" height="35"/>
-</a>
-</span>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
 
 <span >
 <a href="https://github.com/sathish-02" target="_blank">
