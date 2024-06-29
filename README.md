@@ -35,6 +35,7 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 
 ## 👉 Languages and Tools
 
+<span>
 <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" width="100"/>
 <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" alt="CSS3" width="100"/>
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" width="100"/>
@@ -46,6 +47,7 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 <img src="https://img.shields.io/badge/-npm-000000?style=flat&logo=npm" alt="Npm" width="100"/>
 <img src="https://img.shields.io/badge/-postman-000000?style=flat&logo=postman" alt="Postman" width="100"/>
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github" alt="Github" width="100"/>
+</span>
 
 ## Live Projects
 
