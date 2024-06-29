@@ -35,7 +35,7 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 
 
 ## Languages and Tools
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css,tailwind,vscode,git,postman,github,gitlab" 
 
  </p>
@@ -43,11 +43,11 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 
 ## Live Projects
 
-<p>
+<span>
 <a href="https://nike-five.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike" width="120" height="35"/></a>
 
 <a href="https://github.com/sathish-02/Epic_Games_Backend" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas" width="120" height="35"/></a>
-</p>
+</span>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
