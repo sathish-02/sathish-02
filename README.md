@@ -14,7 +14,9 @@
 </div>
 
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
-	<p align="center"> 
+	
+</details>
+<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=sathish-02&label=Profile%20views&color=0e75b6&style=plastic" alt="sathish-02" /> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sathish-02" target="_blank"/> 
@@ -24,7 +26,6 @@
 Experienced React.js Developer with a solid foundation in the MERN stack. Completed a comprehensive MERN stack course and accumulated 2 years of professional experience in React.js development. Passionate about creating efficient, scalable, and responsive web applications. Continuously learning and exploring new technologies to enhance development practices and contribute effectively to projects.
 - :thinking: I’m currently open for: `A new job opportunity`, this is <a href="https://drive.google.com/file/d/1w-nujDcuTfDDmd2HabMbRzVEAjJmYiBp/view?usp=drive_link" target="_blank" rel="noopener">My Resume</a>.
 - :nerd_face: Always `learning new things`
-</details>
 <hr />
 
 
