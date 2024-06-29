@@ -35,18 +35,18 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 
 ## 👉 Languages and Tools
 
-<span>
-<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" alt="CSS3" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" alt="Express" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js" alt="Node" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-npm-000000?style=flat&logo=npm" alt="Npm" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-postman-000000?style=flat&logo=postman" alt="Postman" width="100" height="35"/>
-<img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github" alt="Github" width="100" height="35"/> <br />
+<span >
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3" alt="CSS3" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express" alt="Express" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js" alt="Node" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-npm-000000?style=flat&logo=npm" alt="Npm" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-postman-000000?style=flat&logo=postman" alt="Postman" width="100" height="35" style="margin: 10px;"/>
+  <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github" alt="Github" width="100" height="35" style="margin: 10px;"/> <br />
 </span>
 
 ## Live Projects
