@@ -36,7 +36,7 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 
 ## Languages and Tools
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,laravel,firebase,bootstrap,html,css,vscode,figma,git,js,postman,cs,php,mysql,github,gitlab,vscode,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css,tailwind,vscode,git,postman,github,gitlab" 
 
  </p>
 
