@@ -43,7 +43,7 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 
 ## Live Projects
 
-<span  style="display: flex;">
+<span  style="display: flex; gap:20px;">
 <a href="https://nike-five.vercel.app/" target="_blank">
 	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike" width="120" height="35"/>
 </a>
