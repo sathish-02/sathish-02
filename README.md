@@ -1,8 +1,23 @@
 
-<p align="center" >
-  <img src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" alt="img" src="" width="50%" height="auto"/>
-</p>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Sathish!" alt="Sathish" /></a>
+    </h1>
+
+<h3 align="center">React JS Developer 👨‍💻</h3>
+
+<div align="center" style="display: block;">
+   <img src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" alt="img" src="" width="50%" height="auto"/>
+</div>
+
+<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
+	Experienced React.js Developer with a solid foundation in the MERN stack. Completed a comprehensive MERN stack course and accumulated 2 years of professional experience in React.js development. Passionate about creating efficient, scalable, and responsive web applications. Continuously learning and exploring new technologies to enhance development practices and contribute effectively to projects.
+- :thinking: I’m currently open for: `A new job opportunity`, this is <a href="https://drive.google.com/file/d/1w-nujDcuTfDDmd2HabMbRzVEAjJmYiBp/view?usp=drive_link" target="_blank" rel="noopener">My Resume</a>.
+- :nerd_face: Always `learning new things`
+</details>
 <hr />
 
 <h1 align="center">Hi , I'm Sathish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -159,15 +174,6 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
   </p>
 
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-    <img 
-    alt="sathish-02's Activity Graph" 
-    src="https://activity-graph.herokuapp.com/graph?username=sathish-02&custom_title=sathish-02%27s%20Contribution%20Graph&theme=react-dark" 
-  />
-  <br/>
-
 
 <br/>
 
