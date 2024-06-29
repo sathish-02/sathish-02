@@ -83,7 +83,10 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sathish-02"><img alt="sathish-02's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sathish-02&custom_title=sathish-02's%20Contribution%20Graph&theme=react-dark" /></a>
+    <img 
+    alt="sathish-02's Activity Graph" 
+    src="https://activity-graph.herokuapp.com/graph?username=sathish-02&custom_title=sathish-02%27s%20Contribution%20Graph&theme=react-dark" 
+  />
   <br/>
 
 
