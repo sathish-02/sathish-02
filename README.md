@@ -52,30 +52,30 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
 ## Live Projects
 
 <p>
-<a href="https://nike-five.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike" width="120" height="35"/></a>
+<a href="https://nike-five.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike" width="120" height="35"/></a>
 
-<a href="https://github.com/sathish-02/Epic_Games_Backend" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas" width="120" height="35"/></a>
+<a href="https://github.com/sathish-02/Epic_Games_Backend" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic-Games&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas" width="120" height="35"/></a>
 </p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <span >
-		<a href="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02">
+		<a href="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02" target="_blank">
   <img 
     src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github" 
     alt="Linkedin" 
     style="width: 120px; height: 35px; margin-right: 10px;"
   />
 </a>
-	<a href="https://www.linkedin.com/in/sathish-b-7156ab225/">
+	<a href="https://www.linkedin.com/in/sathish-b-7156ab225/" target="_blank">
   <img 
     src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" 
     alt="Linkedin" 
     style="width: 120px; height: 35px; margin-right: 10px;"
   />
 </a>
-<a href="mailto:sathishb163@gmail.com">
+<a href="mailto:sathishb163@gmail.com" target="_blank">
   <img 
     src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" 
     alt="Gmail" 
