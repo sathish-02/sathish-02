@@ -65,27 +65,24 @@ Experienced React.js Developer with a solid foundation in the MERN stack. Comple
   <img 
     src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github" 
     alt="Linkedin" 
-    style="width: 150px; height: 40px; margin-right: 10px;"
+    style="width: 120px; height: 35px; margin-right: 10px;"
   />
 </a>
 	<a href="https://www.linkedin.com/in/sathish-b-7156ab225/">
   <img 
     src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" 
     alt="Linkedin" 
-    style="width: 150px; height: 40px; margin-right: 10px;"
+    style="width: 120px; height: 35px; margin-right: 10px;"
   />
 </a>
 <a href="mailto:sathishb163@gmail.com">
   <img 
     src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" 
     alt="Gmail" 
-    style="width: 150px; height: 40px;"
+    style="width: 120px; height: 35px;"
   />
 </a>
-  <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sathish-02" alt="Github" width="120" height="35" style="margin: 30px;"/>
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-b-7156ab225/" height="35" style="margin: 30px;"/>
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" width="120" height="35" style="margin: 30px;"/>
- 
+
 </span>
 
 
